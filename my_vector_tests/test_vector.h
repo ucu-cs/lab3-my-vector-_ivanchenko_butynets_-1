@@ -1,0 +1,8 @@
+
+
+#ifndef TEMPLATE_MY_VECTOR_H
+#define TEMPLATE_MY_VECTOR_H
+
+
+
+#endif //TEMPLATE_MY_VECTOR_H
